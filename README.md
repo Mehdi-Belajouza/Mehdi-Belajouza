@@ -20,7 +20,7 @@
 * 🌱 Learning **AWS**, **System Design**, and **Advanced Algorithms**.
 * 💡 Passionate about solving complex problems with **elegant solutions** and focusing on **clean code**.
 * ⚡ Fun fact: I speak **3 languages** fluently!
-* 💬 Ask me about **Wikifandom Edits** and **Wikipedia Edits**—I enjoy contributing to collaborative knowledge bases.
+* 💬 Ask me about **Wikifandom Edits** and **Wikipedia Edits** I enjoy contributing to collaborative knowledge bases.
 
 ---
 
