@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 
-* 🎓 Software Engineering Graduate from **ESIEA Paris** & **EPI Tunisia**
-* 💻 Full-Stack Developer passionate about building clean and efficient web applications
-* 🌍 Based in Gentilly, Île-de-France
-* ✉️ Reach me at [belajouza@et.esiea.fr](mailto:belajouza@et.esiea.fr)
-* 🌱 Currently learning more about **System Design** and **Cloud Infrastructure**
-* ⚡ Fun fact: I speak **3 languages** fluently!
+*  Software Engineering Graduate from **ESIEA Paris** & **EPI Tunisia**
+*  Full-Stack Developer passionate about building clean and efficient web applications
+*  Based in Gentilly, Île-de-France
+*  Reach me at [belajouza@et.esiea.fr](mailto:belajouza@et.esiea.fr)
+*  Currently learning more about **System Design** and **Cloud Infrastructure**
+*  Fun fact: I speak **3 languages** fluently!
 
 ---
 
@@ -52,10 +52,10 @@
                   
 ## 💼 What I Do
 
-* 🛠️ **Full-Stack Development:** Building responsive web applications with modern frameworks
-* ⚙️ **Backend Engineering:** Designing APIs and working with databases (MySQL, PostgreSQL, MongoDB)
-* 🔐 **Code Quality:** Writing clean, maintainable code following best practices
-* 🌐 **DevOps Basics:** Familiar with Docker, Linux environments, and deployment workflows
+*  **Full-Stack Development:** Building responsive web applications with modern frameworks
+*  **Backend Engineering:** Designing APIs and working with databases (MySQL, PostgreSQL, MongoDB)
+*  **Code Quality:** Writing clean, maintainable code following best practices
+*  **DevOps Basics:** Familiar with Docker, Linux environments, and deployment workflows
 
 ---
 
