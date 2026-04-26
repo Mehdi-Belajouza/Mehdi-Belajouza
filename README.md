@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 *  Software Engineering Graduate from **ESIEA Paris** & **EPI Tunisia**
 *  Full-Stack Developer passionate about building clean and efficient web applications
